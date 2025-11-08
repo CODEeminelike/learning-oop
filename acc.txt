@@ -1,0 +1,13 @@
+user:
+ABC
+654321
+
+staff:
+https://learning-oop.onrender.com/views/LoginForStaff.jsp
+teacher:
+giaovientoan
+123456
+
+admin:
+admin1234
+123456
