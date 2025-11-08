@@ -74,6 +74,7 @@ dao\DescriptionDAO.class
 dao\PasswordResetTokenDAO.class
 Model\Users.class
 Model\PaymentProcessor$1.class
+TestTiDBConnection.class
 Model\Description.class
 Controller\LearnCourseServlet.class
 Model\PaymentProcessor.class
